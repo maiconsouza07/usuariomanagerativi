@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "id": "b54c",
+      "nome": "Marcos Antonio dos Santos",
+      "login": "marcaosi",
+      "email": "marcosantonio@univas.edu.br",
+      "telefone": "(35) 99867-2990",
+      "cargo": "Professor Colaborador",
+      "tipo": "professor",
+      "ativo": 0
+    }
+  ],
+  "repositorios": [],
+  "seguidores": []
+}
